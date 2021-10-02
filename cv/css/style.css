@@ -30,7 +30,7 @@ a
 En border/box där information ska finnas i de olika html-dokumenten. 
 Då jag använder padding på både left och right behöver jag inte använda
 någon break tag för att texten automatiskt kommer att anpassa sig efter 
-boxens kanter så länge man inte vill ha text indelad i stycken.  
+boxens kanter. 
 */
 .box
 {
